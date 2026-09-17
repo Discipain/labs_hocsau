@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+myvenv/
+venv/
+.env
+
+# Data - quá nặng
+Practice1/data/
+practice2/data/
+Practice3/data/
+
+# Models - vượt giới hạn 100MB của GitHub
+*.pth
+*.safetensors
+*.bin
+*.pt
+Practice1/models/
+Practice3/models/
+practice2/checkpoints/
+practice2/runs/
+
+# Logs & outputs có thể tái tạo
+practice2/logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Practice3 outputs - checkpoint nặng
+Practice3/outputs/
