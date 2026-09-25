@@ -1,0 +1,6 @@
+===== PRACTICE 2 — trang thái 06:31:01 11/09/2026 =====
+Hang doi : DANG CHAY | xong 0/7 experiments
+Dang chay: ex1_resnet18_transfer
+Epoch gan nhat: 4/6 —   Epoch 4/6 (9791s): train_loss=0.6131 train_acc=79.1% | val_loss=0.6007 val_acc=79.5%
+--- Ket qua tam tinh (tu cac Epoch cuoi trong master.log) ---
+  ex1_resnet18_transfer          Epoch 4/6 (9791s): train_loss=0.6131 train_acc=79.1% | val_loss=0.6007 val_acc=79.5%
